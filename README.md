@@ -4,3 +4,4 @@
 
 ### Practical titles
 #### Practical 1 -  Python program to manage the borrowing records of books in a library
+#### Practical 2 - In an e-commerce system, customer account IDs are stored in a list, and you are tasked with writing a program that implements Linear and Binary Search
