@@ -9,3 +9,7 @@
 #### Practical 4 - Implementing a real-time undo/redo system for a text editing application using a Stack data structure.
 #### Practical 5 - Implement a real-time event processing system using a Queue data structure. The system should support features: add an event , process next event , display pending events , cancel an event.
 #### Practical 6 - A call center receives incoming calls, and each call is assigned a unique customer ID. The calls are answered in the order they are received. Your task is to simulate the call queue of a call center using a queue data structure: addCall(id , time) , answerCall() , viewQueue() , isQueueEmpty()
+#### Practical 7 - Create a Student Record Management System using linked list
+- Use a singly/doubly linked list to store student data (Roll No, Name, Marks).
+- Perform operations: Add, Delete, Update, Search, and Sort.
+- Display records in ascending/descending order based on marks or roll number.
