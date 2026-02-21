@@ -13,3 +13,4 @@
 - Use a singly/doubly linked list to store student data (Roll No, Name, Marks).
 - Perform operations: Add, Delete, Update, Search, and Sort.
 - Display records in ascending/descending order based on marks or roll number.
+#### Practical 8 - Implement a hash table of size 10 and use the division method as a hash function. In case of a collision, use chaining. Implement the following operations: Insert , search , delete.
