@@ -15,3 +15,4 @@
 - Display records in ascending/descending order based on marks or roll number.
 #### Practical 8 - Implement a hash table of size 10 and use the division method as a hash function. In case of a collision, use chaining. Implement the following operations: Insert , search , delete.
 #### Practical 9 - Design and implement a hash table of fixed size. Use the division method for the hash function and resolve collisions using linear probing. Allow the user to perform the following operations: Insert , search , delete a key , display table.
+#### Practical 10 - Implement a hash table with extendible hashing. The hash table should dynamically expand when the number of keys in a bucket exceeds a certain threshold. Perform the following operations: Insert , Search , Delete.
