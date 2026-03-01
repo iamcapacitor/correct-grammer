@@ -21,3 +21,4 @@
 #### Practical 13 - Implement various operations on a Binary Search Tree, such as insertion, deletion, display, and search.
 #### Practical 14 - Construct an expression tree from the given prefix expression, e.g., +--a*bc/def, traverse it using post-order traversal (non-recursive), and then delete the entire tree.
 #### Practical 15 - A list stores city names and their populations. Use a Binary Search Tree for implementation. Provide a facility for adding new cities, deleting a city, and updating population values. Provide a facility to display all the city names in ascending/descending order. Also, find how many maximum comparisons are required to search for a particular city
+#### Practical 16 - Read the formulas in propositional calculus. Write a function that reads such a formula and creates its binary tree representation. What is the complexity of your function?
